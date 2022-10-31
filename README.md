@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SaifShariq
+- 👀 I’m interested in Web Development, App Development, Game Development.
+- 🌱 I’m currently learning ReactJS, Redux, NodeJS, Webpack, Python (And the list goes on 😴)
+- 💞️ I’m looking to collaborate on Open source projects, learning new techs.
+- 📫 
