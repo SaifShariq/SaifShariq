@@ -1,4 +1,4 @@
-# Hello There, I’m Saif 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hello There, I’m Saif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 Welcome to my GitHub profile! I’m a passionate web developer with over 5 years of experience in creating dynamic and responsive web applications. My journey in the tech world has been exciting, and I’m always eager to learn and grow.
 
@@ -31,7 +31,7 @@ Let’s build something awesome together! 🚀
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![gsap](https://img.shields.io/badge/GSAP-0081CB?style=for-the-badge&logo=GSAP&logoColor=white)
+![greensock](https://img.shields.io/badge/greensock-0081CB?style=for-the-badge&logo=greensock&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
