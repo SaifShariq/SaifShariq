@@ -78,7 +78,7 @@ Feel free to reach out to me by clicking the links on my profile. I’m always o
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://saifshariq-portfolio.netlify.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.usercontent.google.com/download?id=1-K7akNYDYXrs_fIOlPjlXvlJLFTpNFRM&export=download&authuser=0&confirm=t&uuid=02b8b2af-5506-4120-81e3-970e9788da2b&at=AN_67v1POkYg5jKErkleO5NTFL7I:1729366950670)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/11cNd3CwTFumuc9Aaiidy0ZNY1KkBMRn6/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saif-shariq-68ab63a0/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/SaifShariq)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mysticninja.)
