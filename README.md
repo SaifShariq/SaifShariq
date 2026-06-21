@@ -1,6 +1,6 @@
 # Hello There, I’m Saif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-Welcome to my GitHub profile! I’m a passionate web developer with over 5 years of experience in creating dynamic and responsive web applications. My journey in the tech world has been exciting, and I’m always eager to learn and grow.
+Welcome to my GitHub profile! I’m a passionate web developer with over 6.5 years of experience in creating dynamic and responsive web applications. My journey in the tech world has been exciting, and I’m always eager to learn and grow.
 
 ## 👤 About me
 
